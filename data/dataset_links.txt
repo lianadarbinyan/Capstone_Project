@@ -1,0 +1,5 @@
+Covertype / Forest  —  https://archive.ics.uci.edu/dataset/31/covertype
+
+Power  —  https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
+
+Higgs  —  https://archive.ics.uci.edu/dataset/280/higgs

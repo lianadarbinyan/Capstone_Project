@@ -1,0 +1,7 @@
+host=localhost
+port=5432
+dbname=Datasets
+user=postgres
+sslmode=prefer
+password=123qweASD456
+connect_timeout=10
